@@ -1,0 +1,222 @@
+{
+  "skills": {
+    "programming_languages": [
+      "python",
+      "java",
+      "javascript",
+      "typescript",
+      "c++",
+      "c#",
+      "go",
+      "ruby",
+      "php",
+      "rust",
+      "scala",
+      "kotlin",
+      "swift"
+    ],
+    "data_platforms": [
+      "sql",
+      "mysql",
+      "postgresql",
+      "mongodb",
+      "snowflake",
+      "bigquery",
+      "redshift",
+      "spark",
+      "hadoop",
+      "kafka"
+    ],
+    "ml_ai": [
+      "machine learning",
+      "deep learning",
+      "tensorflow",
+      "pytorch",
+      "scikit-learn",
+      "nlp",
+      "computer vision",
+      "data science",
+      "model deployment",
+      "mleops"
+    ],
+    "cloud": [
+      "aws",
+      "azure",
+      "gcp",
+      "docker",
+      "kubernetes",
+      "terraform",
+      "ansible"
+    ],
+    "product_design": [
+      "product strategy",
+      "roadmapping",
+      "user research",
+      "ux design",
+      "wireframing",
+      "figma",
+      "interaction design"
+    ],
+    "project_delivery": [
+      "agile",
+      "scrum",
+      "project management",
+      "stakeholder management",
+      "risk management"
+    ],
+    "security": [
+      "cybersecurity",
+      "penetration testing",
+      "risk assessment",
+      "network security",
+      "compliance",
+      "iso 27001"
+    ],
+    "analytics": [
+      "tableau",
+      "power bi",
+      "lookml",
+      "data visualization",
+      "experimentation",
+      "ab testing",
+      "statistics"
+    ],
+    "sales_marketing": [
+      "crm",
+      "salesforce",
+      "seo",
+      "sem",
+      "demand generation",
+      "product marketing",
+      "campaign management"
+    ],
+    "general_business": [
+      "finance",
+      "budgeting",
+      "forecasting",
+      "negotiation",
+      "leadership",
+      "communication",
+      "mentoring",
+      "team building"
+    ]
+  },
+  "degrees": [
+    "bachelor",
+    "master",
+    "phd",
+    "mba",
+    "bs",
+    "ba",
+    "ms",
+    "ma"
+  ],
+  "certifications": [
+    "pmp",
+    "cfa",
+    "cpa",
+    "aws certified",
+    "azure certified",
+    "gcp certified",
+    "scrum master",
+    "six sigma",
+    "cissp",
+    "compTIA"
+  ],
+  "domains": {
+    "finance": [
+      "fintech",
+      "banking",
+      "capital markets",
+      "insurance",
+      "asset management"
+    ],
+    "healthcare": [
+      "pharma",
+      "medtech",
+      "clinical trials",
+      "healthcare",
+      "biotech"
+    ],
+    "retail": [
+      "ecommerce",
+      "supply chain",
+      "retail",
+      "merchandising",
+      "omnichannel"
+    ],
+    "technology": [
+      "saas",
+      "cloud",
+      "software",
+      "developer tools",
+      "it services"
+    ],
+    "manufacturing": [
+      "manufacturing",
+      "operations",
+      "quality assurance",
+      "lean",
+      "industrial"
+    ],
+    "energy": [
+      "energy",
+      "oil and gas",
+      "renewables",
+      "utilities",
+      "power generation"
+    ],
+    "public_sector": [
+      "government",
+      "nonprofit",
+      "education",
+      "public policy"
+    ],
+    "consumer": [
+      "consumer goods",
+      "cpg",
+      "food and beverage",
+      "hospitality",
+      "travel"
+    ]
+  },
+  "seniority_markers": {
+    "intern": [
+      "intern",
+      "co-op",
+      "trainee"
+    ],
+    "junior": [
+      "junior",
+      "associate",
+      "entry level"
+    ],
+    "mid": [
+      "mid-level",
+      "midlevel",
+      "professional",
+      "specialist"
+    ],
+    "senior": [
+      "senior",
+      "lead",
+      "principal",
+      "staff"
+    ],
+    "director": [
+      "director",
+      "head of",
+      "vp",
+      "vice president"
+    ],
+    "executive": [
+      "chief",
+      "c-suite",
+      "cto",
+      "ceo",
+      "coo",
+      "cfo",
+      "svp"
+    ]
+  }
+}
